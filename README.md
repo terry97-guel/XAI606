@@ -19,3 +19,5 @@ Choose,
 `${DATASET}` from `[FINGER, ABAQUS_32, ELASTICA]`
 (e.g. To train `PureNN` on `FINGER` dataset,  `python3 code/main.py --configs "PRIMNET/FINGER.py"`)
 
+# Contact
+taerimyoon@korea.ac.kr
