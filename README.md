@@ -1,5 +1,6 @@
 # XAI606
 Project page for XAI606
+https://youtu.be/mXw5vwnCJ20
 
 # Dataset
 `dataset/FINGER.json` contains train, val, test, OOD test dataset.
